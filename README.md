@@ -1,5 +1,5 @@
 # gestion de la relation client
-<p>
+
 De nos jours, une bonne gestion de la relation clients est un critère important pour 
 fidéliser les clients d’une entreprise, attirer et prospecter des nouveaux pour avoir une 
 bonne réputation et bon positionnement sur son marché.
@@ -9,7 +9,7 @@ dans des fichiers Excel ou dans des documents papier présente un risque et un d
 son avenir, car ces documents peuvent être perdus, endommagés et peuvent présenter des 
 données erronées vu que nous n’avons pas des tests qui gèrent et vérifient la validité des 
 données et le plus important est que nous avons pas une vision sur nos clients
-        </p>
+ 
 # Besoins fonctionnels
 Besoins fonctionnels
 Notre application doit assurer les fonctionnalités suivantes :
