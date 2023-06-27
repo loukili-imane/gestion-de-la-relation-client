@@ -45,7 +45,8 @@ L’utilisateur a le droit d’ajouter un rendez-vous et de modifier ses détail
 ````
 # Diagramme de cas d'utilisation
 
-![image](https://github.com/loukili-imane/gestion-de-la-relation-client/assets/93887037/ac532741-1c6d-4cae-8844-da504f4cdbf3)
+![image](https://github.com/loukili-imane/gestion-de-la-relation-client/assets/93887037/5b7b2917-6504-40b1-adb5-abcf3d26b696)
+
 
 ![image](https://github.com/loukili-imane/gestion-de-la-relation-client/assets/93887037/276d1172-6460-4fcd-8531-d5f665a2df76)
 
