@@ -47,18 +47,16 @@ L’utilisateur a le droit d’ajouter un rendez-vous et de modifier ses détail
 
 ![image](https://github.com/loukili-imane/gestion-de-la-relation-client/assets/93887037/5b7b2917-6504-40b1-adb5-abcf3d26b696)
 
+![image](https://github.com/loukili-imane/gestion-de-la-relation-client/assets/93887037/a1f87020-f1ee-4185-9d8d-dc161653dd42)
 
-![image](https://github.com/loukili-imane/gestion-de-la-relation-client/assets/93887037/276d1172-6460-4fcd-8531-d5f665a2df76)
+![image](https://github.com/loukili-imane/gestion-de-la-relation-client/assets/93887037/1275ec9a-3d14-489e-a952-5d014118ffee)
 
-![image](https://github.com/loukili-imane/gestion-de-la-relation-client/assets/93887037/45915408-1d90-480a-bc7a-267fa918c509)
-
-![image](https://github.com/loukili-imane/gestion-de-la-relation-client/assets/93887037/6b38d856-a077-455e-91b7-a5c6908af3fd)
-
+![image](https://github.com/loukili-imane/gestion-de-la-relation-client/assets/93887037/d6315bd7-8cab-471a-950d-32104a0d233f)
 
 
 # Diagramme de classes
 
-![image](https://github.com/loukili-imane/gestion-de-la-relation-client/assets/93887037/4592e99f-9bd7-4d5a-8425-a3b064f29320)
+![image](https://github.com/loukili-imane/gestion-de-la-relation-client/assets/93887037/98f418de-89e8-42cb-8d12-a80dfc9e197f)
 
 # Interfaces
 
